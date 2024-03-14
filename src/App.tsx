@@ -2,8 +2,8 @@ import './App.css'
 
 import '../public/logo.png'
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faSpotify, faApple, faYoutube, faInstagram, faFacebook } from '@fortawesome/free-brands-svg-icons'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { faSpotify, faApple, faYoutube, faInstagram, faFacebook } from '@fortawesome/free-brands-svg-icons'
 
 function App() {
 
