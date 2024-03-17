@@ -7,6 +7,7 @@ module.exports = {
 			fontFamily: {
 				'roboto': ['Roboto', 'sans-serif'],
 				'nunito': ["'Nunito'", 'sans-serif'],
+				'ibm': ['IBM Plex Sans', 'sans-serif']
 			},
 		},
 	},
